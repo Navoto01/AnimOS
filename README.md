@@ -9,9 +9,9 @@ This project is a hybrid application, combining a native Android shell with a co
 
 ### 🚀 Get Started
 
-* **Download the App:** **[anon.smstar.hu/AnimOS](http://anon.smstar.hu/AnimOS)**
+* **Download the App:** **[anon.smstar.hu/AnimOS](http://anonlab.hu/AnimOS)**
 * **Join the Community:** **[Discord Server](https://discord.com/invite/vzfmdFyrZa)**
-* **Visit AnonLab:** **[anon.smstar.hu](http://anon.smstar.hu)**
+* **Visit AnonLab:** **[anon.smstar.hu](http://anonlab.hu/)**
 
 ---
 
